@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flex\nLagos</string>
+
+    <string name="dummy_button">EXPLORE>></string>
+    <string name="dummy_content">FLEX\nLAGOS</string>
+    <string name="dummy_content2">Discover Cool, Chilled and Funky places</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
